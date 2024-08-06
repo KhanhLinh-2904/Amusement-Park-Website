@@ -1,0 +1,10 @@
+module.exports.User = require("./user.model");
+module.exports.EntranceTicket = require("./entranceTicket.model");
+module.exports.Constant = require("./constant.model");
+module.exports.Game = require("./game.model");
+module.exports.Vip = require("./vip.model");
+module.exports.EventBooking = require("./eventBooking.model");
+module.exports.DailyCustomer = require("./dailyCustomer.model");
+module.exports.Event = require("./event.model");
+module.exports.Maintainance = require("./maintainance.model");
+module.exports.VipVoucher = require("./vipVoucher.model");
